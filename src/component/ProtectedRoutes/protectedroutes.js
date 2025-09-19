@@ -4,7 +4,7 @@
       
       const isAuthenticated = localStorage.getItem('authToken'); 
 
-      return isAuthenticated ? <Outlet /> : <Navigate to="/login" replace />;
+      return isAuthenticated ? <Outlet /> : <Navigate to="/" replace />;
     };
 
     export default ProtectedRoutes;
