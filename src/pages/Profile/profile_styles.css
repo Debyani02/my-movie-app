@@ -1,0 +1,33 @@
+.profile-details-area{
+    margin-left: 20px;
+    margin-top: 10vh;
+}
+.rounded-circle{
+    align-items: center;
+}
+/* @media (max-width:1024px){
+.overlay{
+    right: 90px;
+}
+}
+
+@media (max-width:768px){
+    .overlay{
+        left: 250px;
+    }
+}
+@media (max-width:425px){
+    .overlay{   
+        right: 30px;
+    }
+}
+@media (max-width:375px){
+    .overlay{
+        right:10px;
+    } */
+
+/* @media (max-width:320px){
+    .overlay{
+        left: 60px;
+    }
+} */

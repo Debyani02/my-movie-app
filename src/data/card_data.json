@@ -1,0 +1,61 @@
+[
+    {   "id":11101,
+        "title":"La Casa Da Papel",
+        "year":"2020",
+        "genre":"Drama",
+        "rating":"8.8",
+        "image":"../assets/lacasadapapel.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cast":""
+    },
+    {   "id":11102,
+        "title":"The Ivory Game",
+        "year":"2023",
+        "genre":"Sci-fi",
+        "rating":"8.9",
+        "image":"../assets/the_ivory_game.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cast":""
+    },
+    {   "id":11103,
+        "title":"Harry Potter",
+        "year":"2003",
+        "genre":"Drama",
+        "rating":"9.1",
+        "image":"../assets/harrypotter.jpg",
+        "description":"Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards.",
+        "cast":""
+    },
+{   "id":11104,
+        "title":"Adam Driver",
+        "year":"2019",
+        "genre":"Mystery",
+        "rating":"7.4",
+        "image":"../assets/adam_driver.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cast":""
+    },
+{   "id":11105,
+        "title":"Intersteller",
+        "year":"2013",
+        "genre":"Sci-fi",
+        "rating":"8.1",
+        "image":"../assets/intersteller.png",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cast":""
+    },
+{   "id":11106,
+        "title":"1899",
+        "year":"2024",
+        "genre":"Drama",
+        "rating":"7.3",
+        "image":"../assets/1899.jpg",
+         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cast":""
+    }
+
+
+
+    
+    
+]
