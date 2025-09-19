@@ -11,6 +11,7 @@ import AddMovies from './pages/Add Movies/addmovies';
 import "bootstrap-icons/font/bootstrap-icons.css";
 import MovieDetails from './pages/MovieDetails/moviedetails';
 import UpdateMovie from './pages/UpdateMovie/updateMovie';
+import ProtectedRoutes from './component/ProtectedRoutes/protectedroutes';
 
 
 
@@ -23,14 +24,17 @@ function App() {
         <Routes>
         <Route path='/' element={<Signin/>}></Route>
         <Route path='/signup' element={<Signup/>}></Route>
-        <Route path='/nextsignup' element={<NextSignUp/>}></Route>
-        <Route path='/dashboard' element={<Dashboard/>}></Route>
+        {/* <Route path='/nextsignup' element={<NextSignUp/>}></Route> */}
+        <Route element={<ProtectedRoutes/>}>
+           <Route path='/dashboard' element={<Dashboard/>}></Route>
         <Route path='/profile' element={<Profile/>}></Route>
         <Route path='/product' element={<Product/>}></Route>
         <Route path='/addmovies' element={<AddMovies/>}></Route>
         <Route path='/changepassword' element={<ChangePassword/>}></Route>
         <Route path='/movie/:id' element={<MovieDetails/>}></Route>
         <Route path='/updatemovie/:id' element={<UpdateMovie/>}></Route>
+        </Route>
+       
       </Routes>
       </Router>
       </div>
